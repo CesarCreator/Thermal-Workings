@@ -1,0 +1,43 @@
+item.thermal_core.name=Thermal Core
+item.thermal_battery1.name=Basic Thermal Battery
+item.thermal_battery2.name=Expanded Thermal Battery
+item.thermal_battery3.name=Advanced Thermal Battery
+item.thermium_crystal.name=Thermium Crystal
+item.adv_thermal_core.name=Advanced Thermal Core
+item.double_thermal_core.name=Double Thermal Core
+item.ind_thermal_core.name=Industrial Thermal Core
+tile.thermium_block.name=Thermium Block
+item.developer_secret.name=Developer Secret
+
+itemGroup.tabThermal=Thermal Workings - Main
+
+item.dm_crystal.name=Dark Matter Crystal
+item.dm_laser.name=Dark Matter Laser
+item.dm_core.name=Dark Matter Core
+
+itemGroup.tabTwDm=Thermal Workings - Dark Matter
+
+item.adv_compass.name=Advanced Compass
+item.basic_circuit.name=Basic Circuit
+item.smart_circuit.name=Smart Circuit
+item.thermium_module.name=Thermium Module
+item.heat_projector.name=Heat Projector
+item.electro_scope.name=Electro Scope
+item.molecule_modifier.name=Molecule Modifier
+item.heat_insulator.name=Heat Insulator
+item.heat_compartment.name=Heat Compartment
+item.steel_rod.name=Steel Rod
+item.eletronic_steel_rod=Eletronic Steel Rod
+item.steel_plate=Steel plate
+
+itemGroup.tabTwTech=Thermal Workings - Technology
+
+item.carbon_chunk.name=Carbon Chunk
+item.carbon_pellet.name=Carbon Pellet
+item.steel_ingot.name=Steel Ingot
+
+itemGroup.tabTwNature=Thermal Workings - Natural Resources
+
+itemGroup.tabTwTm=Thermal Workings - Tool Modifiers
+
+
